@@ -2,39 +2,39 @@
 
 ## 1. İÇİNDEKİLER
 
-- 1. İÇİNDEKİLER
-- 2. GİRİŞ
-  * 2.1 Sistemin Amacı
-  * 2.2 Sistemin Kapsamı
-  * 2.3 Kabul ve Kısıtlar
-  * 2.4 Varsayımlar
-  * 2.5 Hedefler ve Başarı Kriterleri
-- 3. YAZILIM GELİŞTİRME SÜRECİ
-- 4. PROJE PLANI
-  - 4.1 Ekip Organizasyon Şeması
-  - 4.2 Görev Dağılım
-  - 4.3 Gantt Diyagramı
-  - 4.4 Risk Analizi
-- 5. MODELLEME
-  - 5.1 E-R Diyagramı
-  - 5.2 Veri Akış Diyagramı Taslak
-  - 5.3 Birinci Düzey Veri Akış Diyagramı
-  - 5.4 İkinci Düzey Veri Akış Diyagramı
-- 6. GERÇEKLEŞTİRME
-  * 6.1 Veri Tabanı Tasarımı
-   + 6.1.1Tablolar
-   + 6.1.2Veriler
- - 6.2 Arayüz Tasarımı
-   - 6.2.1Giriş Ekranı
-   - 6.2.2Admin Panel
-   - 6.2.3Şube Panel
-- 7. TEST
-  - 7.1 Test
-   - 7.1.1Kodlama Aşaması
-   - 7.1.2Kodlama Sonrası Aşama
-   - 7.1.3Son Kullanıcı
-- 8. Değerlendirme
- - 8.1 Müşteri Değerlendirmesi
+1. İÇİNDEKİLER
+2. GİRİŞ
+	  * 2.1 Sistemin Amacı
+	  * 2.2 Sistemin Kapsamı
+	  * 2.3 Kabul ve Kısıtlar
+	  * 2.4 Varsayımlar
+	  * 2.5 Hedefler ve Başarı Kriterleri
+3. YAZILIM GELİŞTİRME SÜRECİ
+4. PROJE PLANI
+	  - 4.1 Ekip Organizasyon Şeması
+	  - 4.2 Görev Dağılım
+	  - 4.3 Gantt Diyagramı
+	  - 4.4 Risk Analizi
+5. MODELLEME
+	  - 5.1 E-R Diyagramı
+	  - 5.2 Veri Akış Diyagramı Taslak
+	  - 5.3 Birinci Düzey Veri Akış Diyagramı
+	  - 5.4 İkinci Düzey Veri Akış Diyagramı
+6. GERÇEKLEŞTİRME
+	 - 6.1 Veri Tabanı Tasarımı
+	      - 6.1.1Tablolar
+	      - 6.1.2Veriler
+   - 6.2 Arayüz Tasarımı
+       - 6.2.1Giriş Ekranı
+       - 6.2.2Admin Panel
+       - 6.2.3Şube Panel
+7. TEST
+	- 7.1 Test
+		- 7.1.1Kodlama Aşaması
+	    - 7.1.2Kodlama Sonrası Aşama
+	    - 7.1.3Son Kullanıcı
+8. Değerlendirme
+	 - 8.1 Müşteri Değerlendirmesi
 
 
 ## 2. GİRİŞ
